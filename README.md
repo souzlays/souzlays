@@ -1,9 +1,8 @@
-# souzlays/README.md
 
 # Olá, sou Lays Souza!
-# Desenvolvedora Front-end.
+## Desenvolvedora Front-end.
 
-## Tecnologias que uso:
+### Tecnologias que uso:
 
 <div style="display: inline_block">
   <img alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
@@ -18,7 +17,7 @@
 </div>
 
 
-## Me encontre em:
+### Me encontre em:
 <div>
   <a href="https://www.linkedin.com/in/lays-souza-desenvolvedora/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -26,7 +25,7 @@
 </div>
 
 ---
-Desenvolvedora em constante aprendizado, buscando criar soluções simples e eficazes para problemas do dia a dia. 🚀
+ Desenvolvedora em constante aprendizado, buscando criar soluções simples e eficazes para problemas do dia a dia. 🚀
 
 ---
 ⭐️ From [souzlays](https://github.com/souzlays)
