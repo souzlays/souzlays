@@ -14,6 +14,9 @@
   <img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+  <img alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 </div>
 
 
@@ -25,7 +28,7 @@
 </div>
 
 ---
- Desenvolvedora em constante aprendizado, buscando criar soluções simples e eficazes para problemas do dia a dia. 🚀
+ Desenvolvedora web pleno, em constante aprendizado, buscando criar soluções simples e eficazes para problemas do dia a dia. 🚀
 
 ---
 ⭐️ From [souzlays](https://github.com/souzlays)
